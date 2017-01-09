@@ -1,3 +1,7 @@
 # TZO
+
 Analysis of TZO
-Masterr procrstinator
+
+**Reduction**
+
+Code for the different stages of reducing the spectra
